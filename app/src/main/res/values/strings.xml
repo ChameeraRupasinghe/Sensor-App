@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sensor App</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="text_x">Reading X</string>
+    <string name="text_y">Reading Y</string>
+    <string name="text_z">Reading Z</string>
+</resources>
