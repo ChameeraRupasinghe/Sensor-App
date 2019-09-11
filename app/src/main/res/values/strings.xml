@@ -5,4 +5,7 @@
     <string name="text_x">Reading X</string>
     <string name="text_y">Reading Y</string>
     <string name="text_z">Reading Z</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
 </resources>
