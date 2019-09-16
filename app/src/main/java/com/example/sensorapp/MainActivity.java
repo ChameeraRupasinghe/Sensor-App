@@ -38,9 +38,6 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
     public void stopReading(View view) {
         sensorManager.unregisterListener(this);
-        textX.setText(R.string.text_x);
-        textY.setText(R.string.text_y);
-        textZ.setText(R.string.text_z);
     }
 
     @Override
